@@ -14,7 +14,11 @@
       "state": "state",
       "slug": "slug",
       "description": "description",
-      "image_blocks": [],
+      "image_blocks": [
+        {
+          "url": "url"
+        }
+      ],
       "article_blocks": [
         {
           "title": "Economics",
