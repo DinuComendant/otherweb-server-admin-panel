@@ -1,7 +1,7 @@
 {
   "briefs": [
     {
-      "title": "Blinken, Trump",
+      "title": "Blinken, Trump, Toddler Stuck",
       "author": {
         "name": "Angela Palmer",
         "avatar": "avatar"
@@ -16,12 +16,12 @@
       "blocks": [
         {
           "type": "news",
-          "title": "Economics",
+          "title": "Blinken seeks progress on Gaza cease-fire",
           "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
           "link": "https://edition.cnn.com/2024/02/19/europe/ukrainian-avdiivka-soldiers-messages-intl/index.html",
           "source": "CNN",
           "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg",
-          "label": "label",
+          "label": "Top Story",
           "stories": [
             {
               "title": "Trump in Court",
@@ -49,7 +49,7 @@
       "id": 1
     },
     {
-      "title": "Blinken, Trump",
+      "title": "Blinken, King Charles, Toddler Stuck",
       "author": {
         "name": "Angela Palmer",
         "avatar": "avatar"
@@ -64,12 +64,12 @@
       "blocks": [
         {
           "type": "news",
-          "title": "Economics",
+          "title": "King Charles diagnosed with cancer",
           "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
           "link": "https://edition.cnn.com/2024/02/19/europe/ukrainian-avdiivka-soldiers-messages-intl/index.html",
           "source": "CNN",
           "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg",
-          "label": "label",
+          "label": "Other News",
           "stories": [
             {
               "title": "Trump in Court",
