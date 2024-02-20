@@ -20,7 +20,21 @@
           "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
           "link": "https://edition.cnn.com/2024/02/19/europe/ukrainian-avdiivka-soldiers-messages-intl/index.html",
           "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg",
-          "label": "label"
+          "label": "label",
+          "stories": [
+            {
+              "title": "Trump in Court",
+              "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim"
+            },
+            {
+              "title": "Trump in Court",
+              "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim"
+            },
+            {
+              "title": "Trump in Court",
+              "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim"
+            }
+          ]
         },
         {
           "type": "image",
@@ -50,7 +64,21 @@
           "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
           "link": "https://edition.cnn.com/2024/02/19/europe/ukrainian-avdiivka-soldiers-messages-intl/index.html",
           "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg",
-          "label": "label"
+          "label": "label",
+          "stories": [
+            {
+              "title": "Trump in Court",
+              "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim"
+            },
+            {
+              "title": "Trump in Court",
+              "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim"
+            },
+            {
+              "title": "Trump in Court",
+              "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim"
+            }
+          ]
         }
       ],
       "id": 2
