@@ -54,44 +54,54 @@
       "id": 1
     },
     {
-      "title": "Blinken, King Charles, Toddler Stuck",
-      "author": {
-        "name": "Angela Palmer",
-        "avatar": "avatar"
-      },
+      "title": "Blinken, Trump, Toddler Stuck",
       "date": "2024-01-25",
       "created_at": "2024-01-25T13:54:24.255Z",
-      "edited_at": "2024-01-25T13:54:24.255Z",
+      "updated_at": "2024-01-25T13:54:24.255Z",
       "published_at": "2024-01-25T13:54:24.255Z",
-      "state": "state",
+      "state": "draft",
       "slug": "slug",
       "description": "description",
+      "author": {
+        "name": "Angela Palmer",
+        "avatar_url": "avatar"
+      },
+
       "blocks": [
         {
           "type": "news",
-          "title": "King Charles diagnosed with cancer",
-          "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
+          "title": "Blinken seeks progress on Gaza cease-fire",
+          "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n",
           "link": "https://edition.cnn.com/2024/02/19/europe/ukrainian-avdiivka-soldiers-messages-intl/index.html",
-          "source": "CNN",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg",
-          "label": "Other News",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg",
+          "label": "Top Story",
+          "source": {
+            "name": "CNN",
+            "image": "https://edition.cnn.com/favicon.ico",
+            "link": "https://edition.cnn.com/"
+          },
+
           "stories": [
             {
               "title": "Trump in Court",
               "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim",
-              "url": "https://edition.cnn.com/2024/02/20/politics/joe-biden-donald-trump-wild-comments/index.html"
+              "link_title": "https://edition.cnn.com/2024/02/20/politics/joe-biden-donald-trump-wild-comments/index.html"
             },
             {
-              "title": "Trump in Court",
+              "title": "Trump in Court2",
               "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim",
-              "url": "https://edition.cnn.com/2024/02/20/politics/joe-biden-donald-trump-wild-comments/index.html"
+              "link_title": "https://edition.cnn.com/2024/02/20/politics/joe-biden-donald-trump-wild-comments/index.html"
             },
             {
-              "title": "Trump in Court",
+              "title": "Trump in Court3",
               "link": "Special council urges Supreme Court to reject Trump's request to review immunity claim",
-              "url": "https://edition.cnn.com/2024/02/20/politics/joe-biden-donald-trump-wild-comments/index.html"
+              "link_title": "https://edition.cnn.com/2024/02/20/politics/joe-biden-donald-trump-wild-comments/index.html"
             }
           ]
+        },
+        {
+          "type": "image",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg"
         }
       ],
       "id": 2
