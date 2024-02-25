@@ -48,7 +48,7 @@
         },
         {
           "type": "image",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg"
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg"
         }
       ],
       "id": 1
@@ -101,7 +101,7 @@
         },
         {
           "type": "image",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg"
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vaughan_road_academy_mon.jpeg"
         }
       ],
       "id": 2
