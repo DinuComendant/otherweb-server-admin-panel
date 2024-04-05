@@ -1,78 +1,420 @@
 {
   "data": [
     {
-      "author": {
-        "avatar_url": null,
-        "name": "Angela Palmer"
+      "_id": {
+        "$oid": "6339673df6f00943bd37dbf3"
       },
-      "blocks": [
-        {
-          "content": "Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content Article content ",
-          "description": "Article description",
-          "image_url": "https://i.guim.co.uk/img/media/a6adbfdad247eb9f5f48503cdc2b65b9c5f4eff3/0_279_2048_1229/master/2048.jpg?width=1900&dpr=1&s=none",
-          "label": "Top Story",
-          "link_url": "https://www.theguardian.com/world/live/2024/mar/02/russia-ukraine-war-latest-live-news-updates",
-          "source": {
-            "image_url": "https://www.theguardian.com/favicon.ico",
-            "name": "CNN",
-            "source_url": "https://www.theguardian.com"
-          },
-          "stories": [
-            {
-              "link_title": "Story title",
-              "link_url": "https://www.theguardian.com/world/live/2024/mar/02/russia-ukraine-war-latest-live-news-updates",
-              "title": "Short title"
-            }
-          ],
-          "title": "Article title",
-          "type": "news"
-        }
-      ],
-      "created_at": "Sat, 02 Mar 2024 13:10:29 GMT",
-      "date": "Sat, 02 Mar 2024 00:00:00 GMT",
-      "description": "Brief description",
-      "id": "65e30925ec96f66746fdef80",
-      "published_at": null,
-      "slug": "brief-title",
-      "state": "draft",
-      "title": "Brief title brief title",
-      "updated_at": "Sat, 02 Mar 2024 13:10:29 GMT"
+      "title": "The Conversation",
+      "description": "Curated by professional editors, The Conversation offers informed commentary and debate on the issues affecting our world. Plus a Plain English guide to the latest developments and discoveries from the university and research sector.",
+      "image": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/wide-57ad3bbc28c983c3ebafd19426a576bc.png",
+      "favicon": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/web-app-logo-192x192-2d05bdd6de6328146de80245d4685946.png",
+      "hostname": "theconversation.com",
+      "url": "https://theconversation.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:26:05.340Z"
+      }
     },
     {
-      "author": {
-        "avatar_url": null,
-        "name": "Angela Palmer"
+      "_id": {
+        "$oid": "6339673df6f00943bd37dbf4"
       },
-      "blocks": [
-        {
-          "image": "",
-          "type": "image"
-        },
-        {
-          "content": "",
-          "description": null,
-          "image_url": null,
-          "label": "Top Story",
-          "link_url": "",
-          "source": {
-            "image_url": "",
-            "name": "",
-            "source_url": ""
-          },
-          "stories": null,
-          "title": "Blinken seeks progress on Gaza cease-fire",
-          "type": "news"
-        }
-      ],
-      "created_at": "Thu, 29 Feb 2024 17:36:40 GMT",
-      "date": "Wed, 28 Feb 2024 00:00:00 GMT",
-      "description": "ssfa",
-      "id": "65e0a48898e5221ff529196d",
-      "published_at": "Thu, 29 Feb 2024 17:59:01 GMT",
-      "slug": "test-slug21",
-      "state": "published",
-      "title": "Blinken, King Charles, Toddler Stuck",
-      "updated_at": "Thu, 29 Feb 2024 17:59:32 GMT"
+      "title": "Reuters",
+      "description": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=114",
+      "favicon": "https://www.reuters.com/pf/resources/icons/favicon.ico?d=114",
+      "hostname": "www.reuters.com",
+      "url": "https://www.reuters.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:26:05.432Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396796f6f00943bd37dbf5"
+      },
+      "title": "DW",
+      "hostname": "www.dw.com",
+      "parsing_date": {
+        "$date": "2022-11-01T09:14:13.815Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396868f6f00943bd37dbf6"
+      },
+      "title": "ABC7 New York",
+      "description": "New York's source for breaking news, weather and live video. Covering NYC, New Jersey, Long Island and all of the greater New York City area.",
+      "image": "https://cdn.abcotvs.net/abcotv/assets/news/wabc/images/logos/default_800x450.jpg",
+      "favicon": "https://cdn.abcotvs.net/abcotv/assets/news/wabc/images/logos/favicon.ico",
+      "hostname": "abc7ny.com",
+      "url": "https://abc7ny.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:31:04.286Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396886f6f00943bd37dbf7"
+      },
+      "title": "The Daily Star Bangla",
+      "description": "সাহসিকতা • সততা • সাংবাদিকতা",
+      "image": "",
+      "favicon": "https://bangla.thedailystar.net/sites/all/themes/sloth/favicon.ico",
+      "hostname": "bangla.thedailystar.net",
+      "url": "https://bangla.thedailystar.net/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:31:34.221Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "633968a5f6f00943bd37dbf8"
+      },
+      "title": "The Times",
+      "hostname": "www.thetimes.co.uk",
+      "parsing_date": {
+        "$date": "2022-11-01T10:28:37.445Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "633968c2f6f00943bd37dbf9"
+      },
+      "title": "Universal-Sci",
+      "description": "Providing you with a regularly updated selection of the most interesting science articles and science news stories",
+      "image": "http://static1.squarespace.com/static/54bf12d2e4b0f0d81bf74ee7/t/5fdcf5ed5669aa292b7adf04/1608316401875/universal-sci.jpg?format=1500w",
+      "favicon": "https://images.squarespace-cdn.com/content/v1/54bf12d2e4b0f0d81bf74ee7/1609338870360-YELNTD11SG8JI6S63YJ4/favicon.ico?format=100w",
+      "hostname": "www.universal-sci.com",
+      "url": "https://www.universal-sci.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:32:34.446Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "633968e0f6f00943bd37dbfa"
+      },
+      "title": "WDIV",
+      "description": "Detroit, Michigan's Local 4 News, headlines, weather, and sports on ClickOnDetroit.com. The latest local Detroit news online from NBC TV's local affiliate in Detroit, Michigan, WDIV - Detroit's Channel 4.",
+      "image": "https://res.cloudinary.com/graham-media-group/image/fetch/f_auto/q_auto/c_thumb,w_700/https://arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/CYQFBANSNRDCBJ7KLRFGJQMZEM.png?_a=ATO2Bfe0",
+      "favicon": "https://www.clickondetroit.com/pf/resources/images/wdiv/favicon.ico?d=445",
+      "hostname": "www.clickondetroit.com",
+      "url": "https://www.clickondetroit.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:33:04.694Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6339691df6f00943bd37dbfb"
+      },
+      "title": "MailOnline",
+      "description": "MailOnline - get the latest breaking news, celebrity photos, viral videos, science & tech news, and top stories from MailOnline and the Daily Mail newspaper.",
+      "image": "https://i.dailymail.co.uk/i/social/img_mol-logo_50x50.png",
+      "favicon": "https://www.dailymail.co.uk/favicon.ico?v=2",
+      "hostname": "www.dailymail.co.uk",
+      "url": "https://www.dailymail.co.uk/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:34:05.055Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396958f6f00943bd37dbfc"
+      },
+      "title": "CTV News Toronto",
+      "description": "Find breaking Toronto & real estate news, live coverage, weather, traffic, in-depth reporting, what do to in Toronto this weekend",
+      "image": "",
+      "favicon": "https://toronto.ctvnews.ca/content/dam/ctvnews/newicons/favicon/apple-touch-icon-152x152.png",
+      "hostname": "toronto.ctvnews.ca",
+      "url": "https://toronto.ctvnews.ca/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:35:04.482Z"
+      },
+      "update_date": {
+        "$date": "2023-03-18T08:31:44.851Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396976f6f00943bd37dbfd"
+      },
+      "title": "Stylist",
+      "description": "Stylist is the online home of Stylist Magazine, featuring all of the latest lifestyle, fashion, beauty, travel, wellness & entertainment news, all through a feminist lens",
+      "image": "https://www.stylist.co.uk/_assets/b997f8708f.jpg",
+      "favicon": "https://www.stylist.co.uk/_assets/4fa28b1b6f.png",
+      "hostname": "www.stylist.co.uk",
+      "url": "https://www.stylist.co.uk/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:35:34.566Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "633969eff6f00943bd37dbfe"
+      },
+      "title": "24 News HD",
+      "description": "24 news HD, Get Latest Pakistan News on 24 News. Breaking News updates on Politics, Current Affairs, Sports, Technology, Entertainment & Business ",
+      "image": "https://www.24newshd.tv/uploads/theme/logo-1580807238.png",
+      "favicon": "https://www.24newshd.tv/assets/24newshd_english/images/favicons/apple-touch-icon.png",
+      "hostname": "www.24newshd.tv",
+      "url": "https://www.24newshd.tv/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:37:35.033Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396a0cf6f00943bd37dbff"
+      },
+      "title": "Moneycontrol",
+      "description": "Business News Today: Read latest Business News Live on Indian economy, share & stock market news, upcoming IPOs and more. Explore for Top business and financial news headlines, banking news, NSE/BSE news, politics news from India & across the World on Moneycontrol.",
+      "image": "https://images.moneycontrol.com/mcnews/images/eng-left-mc-logo-600x60.png",
+      "favicon": "https://images.moneycontrol.com/images/responsive/common/apple-touch-icon.png",
+      "hostname": "www.moneycontrol.com",
+      "url": "https://www.moneycontrol.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:38:04.675Z"
+      },
+      "update_date": {
+        "$date": "2023-03-18T08:25:30.893Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396a2af6f00943bd37dc00"
+      },
+      "title": "Ukrainska Pravda",
+      "hostname": "www.pravda.com.ua",
+      "parsing_date": {
+        "$date": "2022-11-01T10:26:12.236Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396a48f6f00943bd37dc01"
+      },
+      "title": "CP24 - Toronto News | Breaking News | GTA Real Estate News | Toronto Weather",
+      "description": "CP24 - Toronto's Breaking News for the GTA, Watch live video, CP24 Breakfast, Sports, Traffic times, Weather and more.",
+      "image": "https://www.cp24.com/polopoly_fs/1.5022226.1594663456!/httpImage/image.png_gen/derivatives/landscape_960/image.png",
+      "favicon": "https://www.ctvnews.ca/content/dam/cp24/newicons/favicon/apple-touch-icon-152x152.png",
+      "hostname": "www.cp24.com",
+      "url": "https://www.cp24.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:39:04.534Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396a88f6f00943bd37dc02"
+      },
+      "title": "The Express Tribune",
+      "description": "Latest Pakistan news, World News, breaking news updates on Pakistan, Politics, Sports, Business, Technology, Education, lifestyle & Weather on eTribune.",
+      "image": "https://i.tribune.com.pk/media/images/logos/tribune-logo.webp",
+      "favicon": "https://i.tribune.com.pk/assets/images/favicon.ico",
+      "hostname": "tribune.com.pk",
+      "url": "https://tribune.com.pk/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:40:08.372Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396aa2f6f00943bd37dc03"
+      },
+      "title": "Sky News",
+      "description": "Sky News delivers breaking news, headlines and top stories from business, politics, entertainment and more in the UK and worldwide.",
+      "image": "",
+      "favicon": "https://news.sky.com/resources/apple-touch-icon-180x180.png?v=2",
+      "hostname": "news.sky.com",
+      "url": "https://news.sky.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:40:34.560Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396ac0f6f00943bd37dc04"
+      },
+      "title": "Fox News",
+      "description": "America is Watching.",
+      "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+      "favicon": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-180x180.png",
+      "hostname": "www.foxnews.com",
+      "url": "https://www.foxnews.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:41:04.352Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396ac0f6f00943bd37dc05"
+      },
+      "title": "Just The News",
+      "description": "Washington based JusttheNews.com covers events in the capital and is dedicated to Web and video journalism, podcasting and long-form nonfiction book publishing.",
+      "image": "",
+      "favicon": "https://justthenews.com/themes/custom/jtn/icons/apple-touch-icon-180x180.png",
+      "hostname": "justthenews.com",
+      "url": "https://justthenews.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:41:04.404Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396b74f6f00943bd37dc06"
+      },
+      "title": "ABC News",
+      "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "favicon": "https://s.abcnews.com/assets/dtci/images/favicon.ico",
+      "hostname": "abcnews.go.com",
+      "url": "https://abcnews.go.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:44:04.379Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396c0af6f00943bd37dc07"
+      },
+      "title": "CTV News",
+      "hostname": "www.ctvnews.ca",
+      "parsing_date": {
+        "$date": "2022-11-01T09:16:54.526Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396c64f6f00943bd37dc08"
+      },
+      "title": "France 24",
+      "description": "Breaking news and world news from France 24 on Business, Sports, Culture. Video news. News from the US, Europe, Asia Pacific, Africa, Middle East, America",
+      "image": "https://static.france24.com/meta_og_twcards/F24_TW.png",
+      "favicon": "https://www.france24.com/apple-touch-icon.png",
+      "hostname": "www.france24.com",
+      "url": "https://www.france24.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:48:04.708Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396c82f6f00943bd37dc09"
+      },
+      "title": "TechCrunch",
+      "description": "TechCrunch • Reporting on the business of technology, startups, venture capital funding, and Silicon Valley",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "hostname": "techcrunch.com",
+      "url": "https://techcrunch.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:48:34.848Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396cdcf6f00943bd37dc0a"
+      },
+      "title": "Florida State University News",
+      "description": "The Official News Source for Florida State University",
+      "image": "https://news.fsu.edu/wp-content/uploads/2015/11/facebook-gt-1.png",
+      "favicon": "https://news.fsu.edu/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "hostname": "news.fsu.edu",
+      "url": "https://news.fsu.edu/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:50:04.921Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396d37f6f00943bd37dc0b"
+      },
+      "title": "Jordan News | Latest News from Jordan, MENA",
+      "description": "Jordan News keeps you up to date on all things local, including the latest on business, sports, lifestyle, travel from across the Kingdom, the Middle East and the globe.",
+      "image": "https://www.jordannews.jo/App_Images/default.jpg",
+      "favicon": "https://www.jordannews.jo/App_Images/fav.ico",
+      "hostname": "www.jordannews.jo",
+      "url": "https://www.jordannews.jo/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:51:35.033Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396d55f6f00943bd37dc0c"
+      },
+      "title": "The Age",
+      "description": "The Age has the latest local news on Melbourne, Victoria. Read National News from Australia, World News, Business News and Breaking News stories.",
+      "image": "https://www.theage.com.au/theage.png",
+      "favicon": "https://www.theage.com.au/apple-touch-icons/theage.png",
+      "hostname": "www.theage.com.au",
+      "url": "https://www.theage.com.au/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:52:05.042Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396d90f6f00943bd37dc0d"
+      },
+      "title": "Home",
+      "description": "Daily Monitor, the truth everyday.",
+      "image": "https://www.monitor.co.ug/resource/crblob/1909914/03f906e38670a560fa75119a60723864/social-share-fallback-png-data.png",
+      "favicon": "https://www.monitor.co.ug/apple-touch-icon.png",
+      "hostname": "www.monitor.co.ug",
+      "url": "https://www.monitor.co.ug/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:53:04.881Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396e09f6f00943bd37dc0e"
+      },
+      "title": "DNA India",
+      "description": "Latest News Headlines and Live Updates - DNA India Covers all latest and breaking news on Politics, Business, Sports, Bollywood, technology & health from India & the world at Daily News & Analysis",
+      "image": "https://cdn.dnaindia.com/images/2018/DNA-1200.png",
+      "favicon": "https://cdn.dnaindia.com/touch-icon-ipad-retina.png",
+      "hostname": "www.dnaindia.com",
+      "url": "https://www.dnaindia.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:55:05.118Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396e44f6f00943bd37dc0f"
+      },
+      "title": "SFGATE",
+      "description": "Your San Francisco Bay Area local news source plus the latest in sports, culture, weather, food and drink, politics, real estate, Lake Tahoe and California Parks.",
+      "image": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+      "favicon": "https://www.sfgate.com/apple-touch-icon.png",
+      "hostname": "www.sfgate.com",
+      "url": "https://www.sfgate.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:56:04.740Z"
+      },
+      "update_date": {
+        "$date": "2023-03-22T09:45:10.014Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63396e9ef6f00943bd37dc10"
+      },
+      "title": "New York Post",
+      "description": "Your source for breaking news, photos, and videos about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
+      "image": "",
+      "favicon": "https://nypost.com/wp-content/themes/nypost-2016/static/images/apple-icons/nypost/apple-icon-144x144.png",
+      "hostname": "nypost.com",
+      "url": "https://nypost.com/",
+      "parsing_date": {
+        "$date": "2022-10-02T10:57:34.872Z"
+      },
+      "update_date": {
+        "$date": "2022-10-09T07:17:31.873Z"
+      }
     }
   ],
   "page": 1,
