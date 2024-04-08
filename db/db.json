@@ -1,9 +1,7 @@
 {
   "data": [
     {
-      "_id": {
-        "$oid": "6339673df6f00943bd37dbf3"
-      },
+      "_id": "6339673df6f00943bd37dbf3",
       "title": "The Conversation",
       "description": "Curated by professional editors, The Conversation offers informed commentary and debate on the issues affecting our world. Plus a Plain English guide to the latest developments and discoveries from the university and research sector.",
       "image": "https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/wide-57ad3bbc28c983c3ebafd19426a576bc.png",
